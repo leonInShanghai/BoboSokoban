@@ -16,6 +16,7 @@
  <div align="center">
 <img src="https://github.com/leonInShanghai/BoboSokoban/blob/master/picture/2.png" >
 </div>
+</br>
  <div align="center">
 <img src="https://github.com/leonInShanghai/BoboSokoban/blob/master/picture/3.png" >
 </div>
